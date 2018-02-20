@@ -1,0 +1,17 @@
+Version 2.2.1
+
+Ongoing Issues:
+	None known issues
+
+
+
+
+Changes:
+	
+
+11/4/17
+	- Removed the Pulse Out Line and connector
+	- Removed diodes and pull up resistor that connected LFoutpins to the IN
+		pin of the PIC
+	- Connect MCP LFout0 to PIC
+	- Connect MCP HFout to PIC
